@@ -23,8 +23,8 @@ Mobile View
 
 ### Links 🔗
 
-- Solution URL: [Solution]()
-- Live Site URL: [Deploy]()
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/product-preview-card-component-Vt4CU37xj4)
+- Live Site URL: [Deploy](https://canti21.github.io/product-preview-card-component/)
 
 ## My process
 
